@@ -84,4 +84,8 @@ The tool supports two authentication methods:
 
 ## License
 
-[Add your license here]
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/DMarkStorage/netapp-ontap-SANs-toolkit-cli?tab=MIT-1-ov-file#readme) file for more details.
+
+## Contributing
+
+Feel free to submit issues or pull requests to improve the program. Contributions are welcome!
